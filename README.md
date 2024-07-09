@@ -23,7 +23,8 @@ This dashboard exemplifies advanced data analysis and visualization skills using
 Explore the repository to see the full capabilities of the dashboard and how it can transform sales data into valuable business intelligence.
 
 ** Screen shot of Dashboard:
-(https://github.com/raees8/Sales-Analysis-Dashboard-1/assets/174289734/a6869ca8-20e1-4ca0-af4a-c1ea80b7e656)
+![Screenshot (1666)](https://github.com/raees8/Sales-Analysis-Dashboard-1/assets/174289734/445e67e0-9073-4dc5-94e5-b8d9843afdbb)
+
 
 ** Video of dahsboard:
 
